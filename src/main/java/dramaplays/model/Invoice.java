@@ -1,4 +1,6 @@
-package dramaplays;
+package dramaplays.model;
+
+import dramaplays.model.Performance;
 
 import java.util.List;
 
